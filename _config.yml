@@ -107,14 +107,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in Computer Science some of my other interests and hobbies are:
+      - Soccer (Chinese Soccer Team Goal Keeper at Rutgers)
+      - Basketball
+      - Swimming
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image when we against with Upenn Chinese Soccer Team   
+      ![Soccer](images/soccer.jpg "Soccer!")
 
 # Footer
 footer_show_references: true
