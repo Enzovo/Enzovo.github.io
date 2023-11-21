@@ -72,8 +72,8 @@ content:
         quote: >
           There are some projects in different repositories! Happy to share with you!
         description: | # this will include new lines to allow paragraphs
-          There is one project about online Tic-tac-toe game, which implemented with C language. This server can allow multiple games to played together, which use <mark>select</mark> to handle blocking I/O. \n  
-          Also, a classic chess game with Android Application here. If you are a chess man, don't hesitate to clone it and start one game with your friend or AI(not really smart one). \n
+          There is one project about online Tic-tac-toe game, which implemented with C language. This server can allow multiple games to played together, which use <mark>select</mark> to handle blocking I/O.   
+          Also, a classic chess game with Android Application here. If you are a chess man, don't hesitate to clone it and start one game with your friend or AI(not really smart one).  
           And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with python that applied to the agent maze event.  
 
   - title: Experience # Title for the section
