@@ -59,22 +59,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Some projects
+        title: Some interesting projects
         link: github.com/Enzovo
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  some projects
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/Enzovo
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          There are some projects in different repositories! Happy to share with you!
+          There are some interesting projects in different repositories! Happy to share with you!
         description: | # this will include new lines to allow paragraphs
-          There is one project about online Tic-tac-toe game, which implemented with C language. This server can allow multiple games to played together, which use <mark>select</mark> to handle blocking I/O.   
-          Also, a classic chess game with Android Application here. If you are a chess man, don't hesitate to clone it and start one game with your friend or AI(not really smart one).  
-          And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with python that applied to the agent maze event.  
+          There is one project about an online Tic-tac-toe game, which is implemented in C language. This server can allow multiple games to be played together, which use <mark>select</mark> to handle blocking I/O.   
+          Also, a classic chess game with an Android Application is here. If you are a chessman, don't hesitate to clone it and start one game with your friend or AI(not a really smart one).  
+          And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with Python that is applied to the agent maze event.  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
