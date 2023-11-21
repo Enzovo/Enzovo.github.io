@@ -73,23 +73,24 @@ content:
           There are some interesting projects in different repositories! Happy to share with you!
         description: | # this will include new lines to allow paragraphs
           There is one project about an online Tic-tac-toe game, which is implemented in C language. This server can allow multiple games to be played together, which use <mark>select</mark> to handle blocking I/O.   
-          Also, a classic chess game with an Android Application is here. If you are a chessman, don't hesitate to clone it and start one game with your friend or AI(not a really smart one).  
+          Also, a classic chess game with an Android Application is here. If you are a chessman, don't hesitate to clone it and start one game with your friend or in-game AI(not a really smart one).  
           And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with Python that is applied to the agent maze event.  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Shenzhen InSigma - Artificial Intelligence Research Institute (China)
+        link: szis.com.cn
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Python Developer (Intern)
+        caption: August 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Using python lib <mark>PyMuPDF</mark> to make an API with <mark>Flask</mark> that can grab all the data from a pdf according to format. And provide this to the Lead Algorithm Developer for AI model training purposes.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          Shenzhen NetXinXinsi Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
+          Currently, we have established extensive and profound strategic partnerships with industry leaders such as Ping An Group, GF Securities, TCL Group, Taiping Jinke, SF Express Group, Hong Kong Jockey Club, DJI, Harman, Philips, NetEase, and other major players. Our commitment extends beyond the domestic market as we actively address the offshore service needs of international clients. Leveraging local cost advantages, skills, and other resources, we employ a global delivery model that seamlessly integrates with offshore development centers throughout China. This approach allows us to fuse advanced project management, architecture, and business development capabilities with local delivery expertise, ensuring the provision of stable, efficient, and comprehensive new-generation information services.  
+          As a prominent software service company in China, we steadfastly adhere to the service philosophy of "low cost, low risk, high quality." Our focus revolves around accelerating customers' profit growth, continually enhancing efficiency, and advancing product capabilities through the application of new-generation information technology. Quality and market responsiveness are anticipated to serve as the core driving forces supporting our customers' business expansion.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
