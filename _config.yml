@@ -73,7 +73,9 @@ content:
           There are some interesting projects in different repositories! Happy to share with you!
         description: | # this will include new lines to allow paragraphs
           There is one project about an online Tic-tac-toe game, which is implemented in C language. This server can allow multiple games to be played together, which use <mark>select</mark> to handle blocking I/O.   
+
           Also, a classic chess game with an Android Application is here. If you are a chessman, don't hesitate to clone it and start one game with your friend or in-game AI(not a really smart one).  
+
           And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with Python that is applied to the agent maze event.  
 
   - title: Experience # Title for the section
@@ -86,25 +88,22 @@ content:
         sub_title: Python Developer (Intern)
         caption: August 2023 - Present
         quote: >
-          Using python lib <mark>PyMuPDF</mark> to make an API with <mark>Flask</mark> that can grab all the data from a pdf according to format. And provide this to the Lead Algorithm Developer for AI model training purposes.
+          Shenzhen InSigma Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
         description: | # this will include new lines to allow paragraphs
-          Shenzhen NetXinXinsi Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
-          Currently, we have established extensive and profound strategic partnerships with industry leaders such as Ping An Group, GF Securities, TCL Group, Taiping Jinke, SF Express Group, Hong Kong Jockey Club, DJI, Harman, Philips, NetEase, and other major players. Our commitment extends beyond the domestic market as we actively address the offshore service needs of international clients. Leveraging local cost advantages, skills, and other resources, we employ a global delivery model that seamlessly integrates with offshore development centers throughout China. This approach allows us to fuse advanced project management, architecture, and business development capabilities with local delivery expertise, ensuring the provision of stable, efficient, and comprehensive new-generation information services.  
-          As a prominent software service company in China, we steadfastly adhere to the service philosophy of "low cost, low risk, high quality." Our focus revolves around accelerating customers' profit growth, continually enhancing efficiency, and advancing product capabilities through the application of new-generation information technology. Quality and market responsiveness are anticipated to serve as the core driving forces supporting our customers' business expansion.
+          Using python lib <mark>PyMuPDF</mark> to make an API with <mark>Flask</mark> that can grab all the data from a pdf according to format. And provide this to the Lead Algorithm Developer for AI model training purposes.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Rutgers University New Brunswick
+        caption: 2021 - 2024
+        sub_title: BS Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Rutgers, The State University of New Jersey, stands among America's highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you'll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We're an academic, health, and research powerhouse and a university of opportunity.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My time at Rutgers was truly exceptional. As a multicultural institution, I rarely encountered any cultural barriers, and Rutgers' inclusive environment facilitated my swift integration into the community as a Chinese student. In the Computer Science major, I had the opportunity to delve into a variety of programming languages. For instance, I gained proficiency in C language through the <mark>System Programming</mark> course and honed my skills in designing interactive interfaces and functions in the <mark>Software Methodology</mark> course. Additionally, I delved into the realm of data structures and algorithms, exploring various algorithmic concepts in the <mark>Introduction to Algorithms</mark> course, which significantly heightened my interest in this field.  
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Furthermore, my coursework included acquiring knowledge in data management through the study of <mark>Data Management</mark> where I gained proficiency in tools such as <mark>NumPy</mark>, <mark>Pandas</mark>, and <mark>Matplotlib</mark>. These skills equipped me with the ability to effectively process and analyze data.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
