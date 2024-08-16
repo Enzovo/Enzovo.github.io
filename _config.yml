@@ -50,9 +50,16 @@ linkedin_username: qiyun-chen-90506b285
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Qiyun Chen and you will be very welcome to call me Enzo. I'm a senior student at Rutgers University NB and major in Computer Science. Experienced in socket communication and multithreading and offering skills in algorithm problem solving and programming. Fluent in Python, C and Java programming.  
-
-  I am most skilled in <mark>Python Development</mark> and interested in <mark>Machine Learning</mark>
+  Hi, my name's Qiyun Chen and you will be very welcome to call me Enzo. 
+  I was a student at Rutgers University NB and majored in Computer Science.
+  And I will start my Master of Science & Engineering in Computer Science at UC San Diego in fall 2024.
+  
+  I'm also self-motivated and solutions-oriented professional with a strong track
+  record in <mark>software development</mark>, specializing in <mark>socket communication</mark> and
+  <mark>Flask</mark> API design. Possessing robust problem-solving abilities, particularly
+  in <mark>algorithm development</mark> and <mark>data cleaning</mark>. Proficient in multiple
+  programming languages, with a focus on <mark>Python</mark>, <mark>C</mark>, and <mark>Java</mark>. Adept at
+  collaborating with cross-cultural, global teams to deliver high-quality results.
 
 content:
   - title: Projects # Title for the section
@@ -82,11 +89,48 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: SVIEF(San Jose, CA USA)
+        link: www.svief.org
+        # link_text: boringcompany.com
+        sub_title: IT Developer
+        caption: May 2024 - August 2024
+        quote: >
+          The Silicon Valley High-Tech Innovation and Entrepreneurship Summit (abbreviated as SVIEF) 
+          was founded in 2011 in Silicon Valley, California, USA. It is a large-scale platform dedicated 
+          to promoting high-tech industry technology, investment, and talent exchange between China 
+          and the United States. Every year, SVIEF hosts a major annual event in the heart of global 
+          innovation and entrepreneurship—Silicon Valley—featuring the High-Tech Innovation and 
+          Entrepreneurship Summit and the High-Tech Technology Fair. After seven years of development, 
+          it has become a high-end international entrepreneurial and investment conference that connects 
+          China and the United States, while also extending its influence to North America and the 
+          Asia-Pacific region. The event attracts tens of thousands of elites from the business, 
+          political, and technology sectors each year. Over the past decade, it has become the most 
+          prestigious and largest professional platform between China and the United States, 
+          providing industry professionals with high-level, information-rich, and personalized 
+          business information exchanges, resource matching, talent recruitment, project 
+          matchmaking, and venture capital services.  
+        description: | # this will include new lines to allow paragraphs
+          Designed and implemented custom web architectures to support
+          various project requirements.  
+
+          Led efforts in data collection and cleaning, ensuring high-quality,
+          usable datasets.  
+
+          Conducted in-depth data analysis, turning raw data into actionable
+          insights.  
+
+          Developed clean, efficient, and well-tested code across multiple
+          projects.  
+
+          Identified, verified, and resolved bugs and issues to enhance
+          software performance
+          
+
         title: Shenzhen InSigma - Artificial Intelligence Research Institute (China)
         link: szis.com.cn
         # link_text: boringcompany.com
         sub_title: Python Developer (Intern)
-        caption: August 2023 - Present
+        caption: August 2023 - March 2024
         quote: >
           Shenzhen InSigma Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
         description: | # this will include new lines to allow paragraphs
