@@ -104,25 +104,25 @@ content:
           business information exchanges, resource matching, talent recruitment, project 
           matchmaking, and venture capital services.  
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented custom web architectures to support
+          1. Designed and implemented custom web architectures to support
           various project requirements.  
 
-          Led efforts in data collection and cleaning, ensuring high-quality,
+          2. Led efforts in data collection and cleaning, ensuring high-quality,
           usable datasets.  
 
-          Conducted in-depth data analysis, turning raw data into actionable
+          3. Conducted in-depth data analysis, turning raw data into actionable
           insights.  
 
-          Developed clean, efficient, and well-tested code across multiple
+          4. Developed clean, efficient, and well-tested code across multiple
           projects.  
 
-          Identified, verified, and resolved bugs and issues to enhance
+          5. Identified, verified, and resolved bugs and issues to enhance
           software performance.  
 
-          Performed rigorous software testing and coding updates, ensuring
+          6. Performed rigorous software testing and coding updates, ensuring
           reliability and functionality.  
 
-          Consistently produced high-quality, error-free code that adhered to
+          7. Consistently produced high-quality, error-free code that adhered to
           internal standards.
 
       - layout: left
@@ -134,25 +134,25 @@ content:
         quote: >
           Shenzhen InSigma Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
         description: | # this will include new lines to allow paragraphs
-          Automated system migrations, significantly reducing common
+          1. Automated system migrations, significantly reducing common
           human errors and improving overall efficiency.  
 
-          Prepared and submitted detailed reports to management, providing
+          2. Prepared and submitted detailed reports to management, providing
           clear updates on project status and developments.  
 
-          Enhanced customer satisfaction by effectively resolving complaints
+          3. Enhanced customer satisfaction by effectively resolving complaints
           and fostering loyalty.  
 
-          Developed and maintained shared code repositories, optimizing
+          4. Developed and maintained shared code repositories, optimizing
           code reuse and minimizing redundancy across projects.  
 
-          Utilized the PyMuPDF library to efficiently extract data from PDFs
+          5. Utilized the PyMuPDF library to efficiently extract data from PDFs
           for further analysis.  
 
-          Created detailed flowcharts to document and visualize test case
+          6. Created detailed flowcharts to document and visualize test case
           scenarios.  
 
-          Designed and implemented a Flask API that extracts data from
+          7. Designed and implemented a Flask API that extracts data from
           PDFs, converts it to JSON, and securely stores it in a database.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
