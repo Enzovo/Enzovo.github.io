@@ -98,13 +98,7 @@ content:
           The Silicon Valley High-Tech Innovation and Entrepreneurship Summit (abbreviated as SVIEF) 
           was founded in 2011 in Silicon Valley, California, USA. It is a large-scale platform dedicated 
           to promoting high-tech industry technology, investment, and talent exchange between China 
-          and the United States. Every year, SVIEF hosts a major annual event in the heart of global 
-          innovation and entrepreneurship—Silicon Valley—featuring the High-Tech Innovation and 
-          Entrepreneurship Summit and the High-Tech Technology Fair. After seven years of development, 
-          it has become a high-end international entrepreneurial and investment conference that connects 
-          China and the United States, while also extending its influence to North America and the 
-          Asia-Pacific region. The event attracts tens of thousands of elites from the business, 
-          political, and technology sectors each year. Over the past decade, it has become the most 
+          and the United States. Over the past decade, it has become the most 
           prestigious and largest professional platform between China and the United States, 
           providing industry professionals with high-level, information-rich, and personalized 
           business information exchanges, resource matching, talent recruitment, project 
@@ -123,7 +117,13 @@ content:
           projects.  
 
           Identified, verified, and resolved bugs and issues to enhance
-          software performance
+          software performance.  
+
+          Performed rigorous software testing and coding updates, ensuring
+          reliability and functionality.  
+
+          Consistently produced high-quality, error-free code that adhered to
+          internal standards.
 
       - layout: left
         title: Shenzhen InSigma - Artificial Intelligence Research Institute (China)
@@ -134,14 +134,42 @@ content:
         quote: >
           Shenzhen InSigma Software Co., Ltd. is a cutting-edge information service provider based in South China with a global reach. Established in 2012 and headquartered in Shenzhen, China, the company is dedicated to delivering reliable and comprehensive new-generation information services.  
         description: | # this will include new lines to allow paragraphs
-          Using python lib <mark>PyMuPDF</mark> to make an API with <mark>Flask</mark> that can grab all the data from a pdf according to format. And provide this to the Lead Algorithm Developer for AI model training purposes.
+          Automated system migrations, significantly reducing common
+          human errors and improving overall efficiency.  
+
+          Prepared and submitted detailed reports to management, providing
+          clear updates on project status and developments.  
+
+          Enhanced customer satisfaction by effectively resolving complaints
+          and fostering loyalty.  
+
+          Developed and maintained shared code repositories, optimizing
+          code reuse and minimizing redundancy across projects.  
+
+          Utilized the PyMuPDF library to efficiently extract data from PDFs
+          for further analysis.  
+
+          Created detailed flowcharts to document and visualize test case
+          scenarios.  
+
+          Designed and implemented a Flask API that extracts data from
+          PDFs, converts it to JSON, and securely stores it in a database.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: University of California San Diego
+        caption: 2024 - 2026
+        sub_title: M.S.E. of Computer Science
+        quote: >
+          UCSD
+        description: |
+          ongoing...
+
+      - layout: left
         title: Rutgers University New Brunswick
         caption: 2021 - 2024
-        sub_title: BS Computer Science
+        sub_title: B.S. of Computer Science
         quote: >
           Rutgers, The State University of New Jersey, stands among America's highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you'll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We're an academic, health, and research powerhouse and a university of opportunity.
         description: | # this will include new lines to allow paragraphs
