@@ -50,9 +50,9 @@ linkedin_username: qiyun-chen-90506b285
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Qiyun Chen and you will be very welcome to call me Enzo. 
-  I was a student at Rutgers University NB and majored in Computer Science.
-  And I will start my Master of Science & Engineering in Computer Science at UC San Diego in fall 2024.
+  Hi, my name is <mark>Qiyun Chen</mark>, but feel free to call me <mark>Enzo</mark>. 
+  I graduated from Rutgers University - New Brunswick with a degree in Computer Science, 
+  and I'll be starting my Master of Science & Engineering in Computer Science at UC San Diego in Fall 2024.
   
   I'm also self-motivated and solutions-oriented professional with a strong track
   record in <mark>software development</mark>, specializing in <mark>socket communication</mark> and
@@ -124,8 +124,8 @@ content:
 
           Identified, verified, and resolved bugs and issues to enhance
           software performance
-          
 
+      - layout: left
         title: Shenzhen InSigma - Artificial Intelligence Research Institute (China)
         link: szis.com.cn
         # link_text: boringcompany.com
