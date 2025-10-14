@@ -188,8 +188,7 @@ content:
       - layout: left
         title: UC San Diego™
         caption: 2024 - 2026
-        sub_title: GPA: 3.8/4.0
-        sub_title: M.S.E. of Computer Science
+        sub_title: M.S.E. of Computer Science (GPA: 3.8/4.0)
         quote: >
           UC San Diego is a public research university in San Diego, California. It is one of the ten campuses of the University of California system. UC San Diego offers over 200 undergraduate and graduate degree programs, including 19 doctoral programs in a variety of fields. The university is known for its strong emphasis on research and innovation, particularly in the fields of science, engineering, and technology.
         description: | # this will include new lines to allow paragraphs
@@ -206,8 +205,7 @@ content:
       - layout: left
         title: Rutgers University New Brunswick
         caption: 2021 - 2024 
-        sub_title: GPA: 3.9/4.0
-        sub_title: B.S. of Computer Science
+        sub_title: B.S. of Computer Science (GPA: 3.8/4.0)
         quote: >
           Rutgers, The State University of New Jersey, stands among America's highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you'll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We're an academic, health, and research powerhouse and a university of opportunity.
         description: | # this will include new lines to allow paragraphs
