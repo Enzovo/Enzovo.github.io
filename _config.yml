@@ -12,7 +12,8 @@ gender: male
 email: enzo.chen0915@gmail.com
 website: Enzovo.github.io
 phone: +1-(848)-37-1226
-resume: files/Enzo_Chen_Resume.pdf
+[Resume](/files/Qiyun_Chen_Resume_ag.pdf){:target="_blank" download="Enzo_Chen_Resume.pdf"}
+
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,10 +34,10 @@ linkedin_username: qiyun-chen-90506b285
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: Resume(PDF)
+  icon: fas fa-file-pdf
+  url: /files/Qiyun_Chen_Resume_ag.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
