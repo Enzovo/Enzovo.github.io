@@ -52,17 +52,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is <mark>Qiyun Chen</mark>, but feel free to call me <mark>Enzo</mark>. 
-  I graduated from Rutgers University - New Brunswick with a degree in Computer Science, 
-  and I'll be starting my Master of Science & Engineering in Computer Science at UC San Diego in Fall 2024.
+about_content: |
+  Hi, my name is <mark>Qiyun Chen</mark>, but feel free to call me <mark>Enzo</mark>.  
+  I earned my B.S. in <mark>Computer Science</mark> from Rutgers University and am currently pursuing my M.S. in <mark>Computer Science & Engineering</mark> at <mark>UC San Diego</mark>, expected to graduate between <mark>January and March 2026</mark>.
   
-  I'm also self-motivated and solutions-oriented professional with a strong track
-  record in <mark>software development</mark>, specializing in <mark>socket communication</mark> and
-  <mark>Flask</mark> API design. Possessing robust problem-solving abilities, particularly
-  in <mark>algorithm development</mark> and <mark>data cleaning</mark>. Proficient in multiple
-  programming languages, with a focus on <mark>Python</mark>, <mark>C</mark>, and <mark>Java</mark>. Adept at
-  collaborating with cross-cultural, global teams to deliver high-quality results.
+  I’m a <mark>software engineer</mark> with strong foundations in <mark>data structures</mark>, <mark>algorithms</mark>, and <mark>system design</mark>, passionate about building scalable, intelligent systems.  
+  My experience spans <mark>AI agent</mark> development, <mark>Flask</mark> APIs, and <mark>machine learning</mark>, along with extensive debugging and <mark>troubleshooting</mark> of complex backend workflows.  
+  I’ve worked with modern frameworks such as <mark>LangChain</mark>, <mark>LangGraph</mark>, and <mark>FinRL</mark> to design multi-agent architectures capable of <mark>autonomous reasoning</mark>, <mark>data retrieval</mark>, and <mark>decision making</mark>.  
 
+  Skilled in <mark>Python</mark>, <mark>C</mark>, and <mark>Java</mark>, I also leverage tools like <mark>PyTorch</mark>, <mark>TensorFlow</mark>, <mark>SQL</mark>, and <mark>Docker</mark> for AI system integration and deployment.  
+  I take pride in writing clean, testable, and efficient code—whether optimizing algorithms, managing data pipelines, or automating workflows.  
+  I am currently seeking a <mark>full-time Software Engineer</mark> position, with particular interest in <mark>AI agent frameworks</mark>, <mark>backend intelligence</mark>, and <mark>software engineering best practices</mark>.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,15 +81,41 @@ content:
         quote: >
           There are some interesting projects in different repositories! Happy to share with you!
         description: | # this will include new lines to allow paragraphs
-          There is one project about an online Tic-tac-toe game, which is implemented in C language. This server can allow multiple games to be played together, which use <mark>select</mark> to handle blocking I/O.   
+          **1. TradingAgents — Multi-Agent Financial Decision System**  
+          Designed a multi-agent trading architecture using <mark>LangChain</mark> and <mark>LangGraph</mark>, integrating analyst, decision-maker, and risk-manager agents.  
+          Implemented <mark>Backtrader</mark> for evaluation and daily <mark>OHLC</mark> caching to reduce API calls by 80%.  
+          Added a <mark>DecisionDirective</mark> structure with confidence scores from LLM log-probs, improving interpretability and performance.
 
-          Also, a classic chess game with an Android Application is here. If you are a chessman, don't hesitate to clone it and start one game with your friend or in-game AI(not a really smart one).  
+          **2. LA City Autonomous RAG Chatbot**  
+          Developed an autonomous <mark>PDF-retrieval and RAG</mark> system for the City of Los Angeles.  
+          Built multi-agent pipelines for automatic document fetching, parsing, and indexing of over 200 MOUs.  
+          Integrated <mark>LangChain</mark>, <mark>DeepSeekLLM</mark>, and <mark>Google Search</mark> APIs to enable weekly data updates and autonomous query handling.
 
-          And, a fast trajectory re-planning project is also here. It implements <mark>A*</mark> Algorithm with Python that is applied to the agent maze event.  
+          **3. Domain-Specific RAG System (UCSD CSE 291 Project)**  
+          Built a domain-specific <mark>Retrieval-Augmented Generation</mark> benchmark for the FinTech field.  
+          Collected 100+ open-source data sources and 10+ queries; compared <mark>Qdrant</mark> and <mark>Elasticsearch</mark> retrieval quality.  
+          Evaluated trade-offs in cost, speed, and grounding accuracy for production-scale retrieval systems.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: LA City
+        link: https://github.com/Enzovo/MOU_chatbot
+        sub_title: AI Agent Developer
+        caption: June 2025 - September 2025
+        quote: >
+          MOU_chatbot is a chat base bot that can answer questions about the Memorandum of Understanding (MOU) documents between the City of Los Angeles and various labor unions. The bot is designed to help users quickly find information within these documents by leveraging advanced natural language processing techniques.
+        description: | # this will include new lines to allow paragraphs
+          1. Developed an autonomous PDF retrieval and RAG system for the City of Los Angeles
+          to manage over 200 MOUs with labor unions.
+          2. Built multi-agent pipelines for automatic document fetching, parsing, and indexing,
+          significantly improving data accessibility.
+          3. Integrated LangChain, DeepSeekLLM, and Google Search APIs to enable weekly data
+          updates and autonomous query handling.
+          4. Designed and implemented a streamlit UI to facilitate seamless interaction with the
+          chatbot system.
+
       - layout: left
         title: SVIEF(San Jose, CA USA)
         link: www.svief.org
@@ -160,17 +186,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of California San Diego
+        title: UC San Diego™
         caption: 2024 - 2026
+        sub_title: GPA: 3.8/4.0
         sub_title: M.S.E. of Computer Science
         quote: >
-          UCSD
-        description: |
-          ongoing...
+          UC San Diego is a public research university in San Diego, California. It is one of the ten campuses of the University of California system. UC San Diego offers over 200 undergraduate and graduate degree programs, including 19 doctoral programs in a variety of fields. The university is known for its strong emphasis on research and innovation, particularly in the fields of science, engineering, and technology.
+        description: | # this will include new lines to allow paragraphs
+          My experience at <mark>UC San Diego</mark> has been an invaluable stage of academic and professional growth.  
+          As a graduate student in <mark>Computer Science & Engineering</mark> with a current <mark>GPA of 3.8/4.0</mark>, I have deepened my understanding of <mark>algorithms</mark>, <mark>database systems</mark>, <mark>computer architecture</mark>, and <mark>machine learning principles</mark>, while applying this knowledge to real-world system design and automation challenges.  
+
+          My coursework and research have emphasized both theoretical rigor and practical implementation.  
+          I have built <mark>AI-driven systems</mark> that integrate <mark>data cleaning</mark>, <mark>retrieval-augmented generation</mark>, and <mark>agent collaboration</mark>, focusing on efficiency, scalability, and interpretability.  
+          Through these projects, I gained extensive experience with <mark>Python</mark>, <mark>Flask</mark>, and <mark>SQL</mark> for backend development, as well as frameworks like <mark>LangChain</mark>, <mark>LangGraph</mark>, <mark>PyTorch</mark>, and <mark>TensorFlow</mark> for intelligent automation and large-scale reasoning.  
+
+          Beyond coding, my time at UCSD has also sharpened my <mark>system thinking</mark> and <mark>problem-solving</mark> abilities—whether optimizing algorithmic performance, debugging complex architectures, or coordinating multi-agent workflows.  
+          This combination of research insight, engineering discipline, and cross-domain adaptability has prepared me to design <mark>AI systems</mark> that are not only intelligent but also robust and production-ready.
 
       - layout: left
         title: Rutgers University New Brunswick
-        caption: 2021 - 2024
+        caption: 2021 - 2024 
+        sub_title: GPA: 3.9/4.0
         sub_title: B.S. of Computer Science
         quote: >
           Rutgers, The State University of New Jersey, stands among America's highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you'll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We're an academic, health, and research powerhouse and a university of opportunity.
