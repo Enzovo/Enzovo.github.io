@@ -219,13 +219,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Computer Science some of my other interests and hobbies are:
-      - Soccer (Chinese Soccer Team Goal Keeper at Rutgers)
-      - Basketball (Lebron is my goat all the time)
-      - Swimming
-      - Gaming(Csgo never die! LoL is also an option)
+      - Soccer ⚽ (Chinese Soccer Team Goal Keeper at Rutgers)
+      - Basketball 🏀
+      - Swimming 🏊
+      - Gaming 🎮 (Global rank at CSGO, CS2 😭)
+      - Traveling ✈️ (I love Cali, but also miss Boston and Jersey)
 
-      Look at this cool image when we were against with Upenn Chinese Soccer Team   
-      ![Soccer](images/soccer.jpg "Soccer!")
+      Check out this cool photo I took when I was on midway deck at San Diego!
+      ![Ship](images/ship.jpg "Ship!")
 
 # Footer
 footer_show_references: true
