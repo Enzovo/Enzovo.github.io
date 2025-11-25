@@ -54,15 +54,20 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 about_content: |
   Hi, my name is <mark>Qiyun Chen</mark>, but feel free to call me <mark>Enzo</mark>.  
-  I earned my B.S. in <mark>Computer Science</mark> from Rutgers University and am currently pursuing my M.S. in <mark>Computer Science & Engineering</mark> at <mark>UC San Diego</mark>, expected to graduate between <mark>January and March 2026</mark>.
   
-  I’m a <mark>software engineer</mark> with strong foundations in <mark>data structures</mark>, <mark>algorithms</mark>, and <mark>system design</mark>, passionate about building scalable, intelligent systems.  
-  My experience spans <mark>AI agent</mark> development, <mark>Flask</mark> APIs, and <mark>machine learning</mark>, along with extensive debugging and <mark>troubleshooting</mark> of complex backend workflows.  
-  I’ve worked with modern frameworks such as <mark>LangChain</mark>, <mark>LangGraph</mark>, and <mark>FinRL</mark> to design multi-agent architectures capable of <mark>autonomous reasoning</mark>, <mark>data retrieval</mark>, and <mark>decision making</mark>.  
+  I earned my B.S. in Computer Science from <mark>Rutgers University</mark> and I am currently pursuing my M.S. in Computer Science & Engineering at <mark>UC San Diego™</mark>, expected to graduate between January and March 2026.
+  
+  I’m a <mark>software engineer student</mark> with strong foundations in <mark>data structures</mark>, <mark>algorithms</mark>, and <mark>system design</mark>, passionate about building scalable, intelligent systems.  
+  
+  My experience spans AI agent development, Flask APIs, and machine learning, along with extensive debugging and troubleshooting of complex backend workflows.  
+  
+  I’ve worked with modern frameworks such as <mark>LangChain</mark>, <mark>LangGraph</mark>, and <mark>Camel</mark> to design multi-agent architectures capable of autonomous reasoning, data retrieval, and decision making.  
 
   Skilled in <mark>Python</mark>, <mark>C</mark>, and <mark>Java</mark>, I also leverage tools like <mark>PyTorch</mark>, <mark>TensorFlow</mark>, <mark>SQL</mark>, and <mark>Docker</mark> for AI system integration and deployment.  
+  
   I take pride in writing clean, testable, and efficient code—whether optimizing algorithms, managing data pipelines, or automating workflows.  
-  I am currently seeking a <mark>full-time Software Engineer</mark> position, with particular interest in <mark>AI agent frameworks</mark>, <mark>backend intelligence</mark>, and <mark>software engineering best practices</mark>.
+  
+  I am currently seeking a <mark>full-time Software Engineer</mark> position, with particular interest in <mark>AI agent engineer</mark>, <mark>backend engineer</mark>, and <mark>software engineer</mark>.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -196,7 +201,7 @@ content:
           UC San Diego is a public research university in San Diego, California. It is one of the ten campuses of the University of California system. UC San Diego offers over 200 undergraduate and graduate degree programs, including 19 doctoral programs in a variety of fields. The university is known for its strong emphasis on research and innovation, particularly in the fields of science, engineering, and technology.
         description: | # this will include new lines to allow paragraphs
           My experience at <mark>UC San Diego</mark> has been an invaluable stage of academic and professional growth.  
-          As a graduate student in <mark>Computer Science & Engineering</mark> with a current <mark>GPA of 3.8/4.0</mark>, I have deepened my understanding of <mark>algorithms</mark>, <mark>database systems</mark>, <mark>computer architecture</mark>, and <mark>machine learning principles</mark>, while applying this knowledge to real-world system design and automation challenges.  
+          As a graduate student in Computer Science & Engineering with a current <mark>GPA of 3.8/4.0</mark>, I have deepened my understanding of <mark>algorithms</mark>, <mark>database systems</mark>, <mark>computer architecture</mark>, and <mark>machine learning principles</mark>, while applying this knowledge to real-world system design and automation challenges.  
 
           My coursework and research have emphasized both theoretical rigor and practical implementation.  
           I have built <mark>AI-driven systems</mark> that integrate <mark>data cleaning</mark>, <mark>retrieval-augmented generation</mark>, and <mark>agent collaboration</mark>, focusing on efficiency, scalability, and interpretability.  
@@ -208,7 +213,7 @@ content:
       - layout: left
         title: Rutgers University New Brunswick
         caption: 2021 - 2024 
-        sub_title: B.S. of Computer Science (GPA 3.8/4.0)
+        sub_title: B.S. of Computer Science (GPA 3.9/4.0)
         quote: >
           Rutgers, The State University of New Jersey, stands among America's highest-ranked, most diverse public research universities. The oldest, largest, and top-ranked public university in the New York/New Jersey metropolitan area, you'll find us at our main locations in three New Jersey cities, and our footprint can be seen around the region. We're an academic, health, and research powerhouse and a university of opportunity.
         description: | # this will include new lines to allow paragraphs
